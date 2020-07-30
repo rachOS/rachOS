@@ -1,4 +1,4 @@
-![bordeaux]("./DSCF5357.jpg")
+![bordeaux](/img/DSCF5357.jpg)
 # Hi there 👋
 
 <!--
