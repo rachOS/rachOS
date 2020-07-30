@@ -1,5 +1,5 @@
 # Hello folks 👋
-![bordeaux](img/DSCF5357.jpg)
+![bordeaux](https://github.com/rachOS/rachOS/blob/master/img/DSCF5357.jpg)
 <!--
 **rachOS/rachOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
