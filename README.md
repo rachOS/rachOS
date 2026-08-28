@@ -4,8 +4,8 @@
 
 Full-stack developer focused on TypeScript and React
 
-- 🌱 I’m currently learning clean architecture
-- 🔭 I’m currently working web performances 
+- 🌱 I’m currently learning on clean architecture
+- 🔭 I’m currently working on web performances 
 
 <!--**rachOS/rachOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
