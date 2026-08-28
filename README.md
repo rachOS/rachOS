@@ -1,7 +1,13 @@
 <!--# Hello folks 👋
 ![bordeaux](https://github.com/rachOS/rachOS/blob/master/img/DSCF5357.jpg)-->
+# Hi, I'm Grégory
 
-**rachOS/rachOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on TypeScript and React
+
+- 🌱 I’m currently learning clean architecture
+- 🔭 I’m currently working web performances 
+
+<!--**rachOS/rachOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
 test [carbon.now.sh](https://carbon.now.sh/)
 <img width="1750" height="782" alt="image" src="https://github.com/user-attachments/assets/bbbbade6-1c6b-45a7-b5b1-6918fef095f4" />
