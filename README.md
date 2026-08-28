@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 test carbon
-(https://carbon.now.sh/)[carbon]
+
+[carbon](https://carbon.now.sh/)
 <img width="1750" height="782" alt="image" src="https://github.com/user-attachments/assets/bbbbade6-1c6b-45a7-b5b1-6918fef095f4" />
